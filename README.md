@@ -1,6 +1,6 @@
 # Todo Master CLI
 A command-line programmer's todo list manager for the French
-
+<pre>
 Commands:
  h : this help page
  n [todo list name]: create new todo list
@@ -17,3 +17,4 @@ Shortcuts:
  fp : dans la fenêtre principale de l'application 
  fe : dans la fenêtre de l'éditeur 
  f :  dans la fenêtre
+</pre>
